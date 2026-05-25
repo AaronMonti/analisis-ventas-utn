@@ -1,6 +1,9 @@
 
 # Análisis de Ventas UTN - Aaron Montivero
 
+## Integrante
+Aaron Montivero
+
 ## Escenario
 Escenario B - Análisis de Ventas de una Pequeña Empresa
 
